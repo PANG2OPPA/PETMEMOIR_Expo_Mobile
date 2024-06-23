@@ -1,4 +1,4 @@
-## AWS 배포 사이트 : https://www.petmemoir.site/  <sub>(수정된 url)</sub>
+## AWS 배포 사이트 : https://www.petmemoir.site/  <sub>(최신화된 url)</sub>
 
 ![notion용](https://github.com/sonincheon/Doggo-frontend/assets/142462485/c23a0c72-e634-4726-a5ac-dff07aef02aa)
 ---
